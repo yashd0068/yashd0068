@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Web3
 - 🌱 I’m currently learning C amd python
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on Linkdin - https://www.linkedin.com/in/yash-dubey-b59053225
+- 📫 Lets connect on Linkdin - https://www.linkedin.com/in/yash-dubey-b59053225
 
 <!---
 yashd0068/yashd0068 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
