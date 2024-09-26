@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashd0068
-- 👀 I’m interested in Programming and Web3
-- 🌱 I’m currently learning C amd python
+- 👀 I’m interested in Programming and cloud technology(aws) .
+- 🌱 I’m currently learning cpp and java .
 - 💞️ I’m looking to collaborate on ...
 - 📫 Lets connect on Linkdin - https://www.linkedin.com/in/yash-dubey-b59053225
 
